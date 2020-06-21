@@ -1,0 +1,1 @@
+Root location of all the blog uploads

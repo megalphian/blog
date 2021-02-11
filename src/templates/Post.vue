@@ -68,8 +68,7 @@ query Post ($id: ID!) {
     }
     description
     content
-    ### Add cover image in the future
-    # cover_image (width: 860, blur: 10)
+    cover_image (width: 860, blur: 10)
   }
 }
 </page-query>

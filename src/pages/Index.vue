@@ -21,8 +21,7 @@ query {
         date (format: "D. MMMM YYYY")
         timeToRead
         description
-        ### Add cover image in the future
-        #cover_image (width: 770, height: 380, blur: 10)
+        cover_image (width: 770, height: 380, blur: 10)
         ...on Post {
         id
         title

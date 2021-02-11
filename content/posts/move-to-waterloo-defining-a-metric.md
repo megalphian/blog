@@ -6,7 +6,7 @@ tags:
   - Mental Health
   - Adventure
   - Moving
-cover_image: /uploads/img_20210116_193046.jpg
+cover_image: /images/uploads/img_20210116_193046.jpg
 description: Last month, I moved to Waterloo for a multitude of reasons, so I
   wanted to write about it! This move was accompanied by a mental journey on
   setting myself a meaningful metric.

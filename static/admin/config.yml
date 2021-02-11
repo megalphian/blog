@@ -2,7 +2,7 @@ backend:
   name: github
   repo: megalphian/blog
 
-media_folder: "static/images/uploads"
+media_folder: "/images/uploads"
 public_folder: "/uploads"
 
 collections:

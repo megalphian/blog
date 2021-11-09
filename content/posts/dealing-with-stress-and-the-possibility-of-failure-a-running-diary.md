@@ -4,7 +4,7 @@ date: 2021-11-09T20:11:53.621Z
 published: true
 tags:
   - tag
-cover_image: /uploads/i.jpeg
+cover_image: /images/uploads/kobe.jpeg
 description: Running thoughts on the upcoming insanely busy weeks
 ---
 I now find myself at a point in my PhD program where my metal will be tested in the nest 2-3 weeks. While a part of me wants to ignore the challenge and watch NBA games, another part keeps pushing me to face what's coming. I'm finding that writing down these thoughts could help the latter part and potentially come out of these weeks in flying colours so I'm going to do that.

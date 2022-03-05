@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Stress and the Possibility of Failure: A Running Diary"
 date: 2021-11-09T20:11:53.621Z
-published: true
+published: false
 tags:
   - motivation
   - thoughts
